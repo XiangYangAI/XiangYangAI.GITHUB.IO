@@ -1163,3 +1163,4 @@
 {"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T10:44:35.571Z","v":0}
 {"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T10:44:35.571Z","v":0}
 {"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T10:44:35.571Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML post: \u001b[35m2019/10/04/hello-world/index.html\u001b[39m","time":"2019-10-05T10:46:23.268Z","v":0}
