@@ -1436,3 +1436,239 @@
 {"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T14:57:55.240Z","v":0}
 {"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T14:57:55.240Z","v":0}
 {"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T14:57:55.240Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML post: \u001b[35m2019/10/04/hello-world/index.html\u001b[39m","time":"2019-10-05T14:58:30.900Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML page: \u001b[35mcategories/index.html\u001b[39m","time":"2019-10-05T14:58:36.205Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML page: \u001b[35mtags/index.html\u001b[39m","time":"2019-10-05T14:58:40.658Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML archive: \u001b[35marchives/index.html\u001b[39m","time":"2019-10-05T14:58:45.682Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML post: \u001b[35m2019/10/05/first-test/index.html\u001b[39m","time":"2019-10-05T14:58:52.164Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Processed: \u001b[35m_posts/first-test.md\u001b[39m","time":"2019-10-05T15:07:46.682Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering post: \u001b[35m/Users/apple/hexo/source/_posts/first-test.md\u001b[39m","time":"2019-10-05T15:07:46.790Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:07:46.836Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:07:46.836Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:07:46.836Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:07:46.836Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:07:46.836Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:07:46.836Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:07:46.844Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:07:46.853Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:07:46.853Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:07:46.853Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:07:46.853Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:07:46.853Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:07:46.853Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:07:46.853Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Processed: \u001b[35m_posts/first-test.md\u001b[39m","time":"2019-10-05T15:08:51.379Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering post: \u001b[35m/Users/apple/hexo/source/_posts/first-test.md\u001b[39m","time":"2019-10-05T15:08:51.487Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:08:51.498Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:08:51.499Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:08:51.499Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:08:51.499Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:08:51.499Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:08:51.499Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:08:51.501Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:08:51.505Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:08:51.505Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:08:51.505Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:08:51.505Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:08:51.506Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:08:51.506Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:08:51.506Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Processed: \u001b[35m_posts/first-test.md\u001b[39m","time":"2019-10-05T15:12:52.386Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering post: \u001b[35m/Users/apple/hexo/source/_posts/first-test.md\u001b[39m","time":"2019-10-05T15:12:52.501Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:12:52.523Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:12:52.523Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:12:52.523Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:12:52.523Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:12:52.523Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:12:52.523Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:12:52.527Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:12:52.533Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:12:52.533Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:12:52.533Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:12:52.533Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:12:52.533Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:12:52.533Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:12:52.533Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML post: \u001b[35m2019/10/05/first-test/index.html\u001b[39m","time":"2019-10-05T15:13:04.491Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:20:49.036Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:20:49.038Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:20:49.039Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:20:49.039Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:20:49.039Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:20:49.039Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:20:49.048Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:20:49.057Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:20:49.057Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:20:49.057Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:20:49.057Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:20:49.057Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:20:49.057Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:20:49.057Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:21:23.275Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:21:23.275Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:21:23.275Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:21:23.276Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:21:23.278Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:21:23.278Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:21:23.285Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:21:23.290Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:21:23.290Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:21:23.290Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:21:23.290Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:21:23.290Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:21:23.290Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:21:23.290Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:22:18.801Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:22:18.802Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:22:18.802Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:22:18.802Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:22:18.802Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:22:18.802Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:22:18.809Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:18.819Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:22:18.819Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:18.819Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:22:18.819Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:18.819Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:22:18.819Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:18.819Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:22:23.370Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:22:23.376Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:22:23.378Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:22:23.378Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:22:23.378Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:22:23.378Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:22:23.385Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:23.392Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:22:23.393Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:23.393Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:22:23.393Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:23.393Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:22:23.393Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:23.393Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:22:47.674Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:22:47.674Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:22:47.675Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:22:47.675Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:22:47.676Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:22:47.676Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:22:47.680Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:47.688Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:22:47.688Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:47.688Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:22:47.688Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:47.688Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:22:47.688Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:22:47.688Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Theme config loaded.","time":"2019-10-05T15:23:21.752Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2019-10-05T15:23:21.752Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:23:21.867Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:23:21.868Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:23:21.870Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:23:21.871Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:23:21.871Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:23:21.871Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:23:21.873Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:23:21.882Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:23:21.882Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:23:21.882Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:23:21.882Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:23:21.882Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:23:21.882Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:23:21.883Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML index: \u001b[35mindex.html\u001b[39m","time":"2019-10-05T15:24:20.957Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:24:31.691Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:24:31.692Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:24:31.693Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:24:31.697Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:24:31.698Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:24:31.699Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:24:31.709Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:31.722Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:24:31.722Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:31.722Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:24:31.722Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:31.722Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:24:31.722Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:31.723Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Theme config loaded.","time":"2019-10-05T15:24:49.629Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2019-10-05T15:24:49.631Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:24:49.747Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:24:49.747Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:24:49.748Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:24:49.748Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:24:49.748Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:24:49.749Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:24:49.750Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:49.760Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:24:49.761Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:49.763Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:24:49.763Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:49.763Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:24:49.764Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:24:49.764Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML index: \u001b[35mindex.html\u001b[39m","time":"2019-10-05T15:24:53.567Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:27:46.962Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:27:46.963Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:27:46.965Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:27:46.965Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:27:46.965Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:27:46.965Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:27:46.974Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:27:46.982Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:27:46.982Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:27:46.983Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:27:46.983Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:27:46.984Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:27:46.984Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:27:46.985Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Theme config loaded.","time":"2019-10-05T15:28:01.025Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2019-10-05T15:28:01.026Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:28:01.218Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:28:01.219Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:28:01.219Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:28:01.220Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:28:01.220Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:28:01.220Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:28:01.225Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:28:01.232Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:28:01.233Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:28:01.233Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:28:01.233Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:28:01.233Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:28:01.233Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:28:01.233Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:34:57.250Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:34:57.254Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:34:57.254Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:34:57.255Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:34:57.255Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:34:57.255Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:34:57.266Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:34:57.278Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:34:57.278Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:34:57.279Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:34:57.279Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:34:57.279Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:34:57.279Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:34:57.279Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Theme config loaded.","time":"2019-10-05T15:35:28.172Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2019-10-05T15:35:28.193Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-10-05T15:35:28.317Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-10-05T15:35:28.317Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-10-05T15:35:28.317Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-10-05T15:35:28.318Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-10-05T15:35:28.318Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-10-05T15:35:28.319Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-10-05T15:35:28.322Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:35:28.342Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2019-10-05T15:35:28.343Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:35:28.343Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2019-10-05T15:35:28.343Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:35:28.343Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2019-10-05T15:35:28.343Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":40,"msg":"===============================================================","time":"2019-10-05T15:35:28.343Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML index: \u001b[35mindex.html\u001b[39m","time":"2019-10-05T15:35:34.538Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Rendering HTML index: \u001b[35mindex.html\u001b[39m","time":"2019-10-05T15:36:07.470Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":30,"msg":"Good bye","time":"2019-10-05T15:37:00.710Z","v":0}
+{"name":"hexo","hostname":"apple-xy.local","pid":3049,"level":20,"msg":"Database saved","time":"2019-10-05T15:37:00.736Z","v":0}
